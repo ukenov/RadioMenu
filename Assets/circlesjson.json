@@ -1,0 +1,15 @@
+{
+    "mainCircles":
+    [
+        {"id":1}
+    ],
+    "innerCircles":
+    [
+        {
+            "id":1,"main_id":1,"field_id":1
+        },
+        {
+            "id":2,"main_id":1,"field_id":2
+        }
+    ],
+    "circleFields":[{"id":1,"value":"Greetings","main_id":1,"innercircle_id":0},{"id":2,"value":"Food","main_id":1,"innercircle_id":0},{"id":3,"value":"News","main_id":1,"innercircle_id":0},{"id":4,"value":"Sport","main_id":1,"innercircle_id":0},{"id":5,"value":"Reaction","main_id":1,"innercircle_id":0},{"id":6,"value":"Order","main_id":1,"innercircle_id":0},{"id":7,"value":"Hello","main_id":1,"innercircle_id":1},{"id":8,"value":"How are you","main_id":1,"innercircle_id":1},{"id":9,"value":"Good Morning","main_id":1,"innercircle_id":1},{"id":10,"value":"Hi","main_id":1,"innercircle_id":1},{"id":11,"value":"Good afternoon","main_id":1,"innercircle_id":1},{"id":12,"value":"Nice to see you","main_id":1,"innercircle_id":1},{"id":13,"value":"Pasta","main_id":1,"innercircle_id":2},{"id":14,"value":"Piza","main_id":1,"innercircle_id":2},{"id":15,"value":"Eggs","main_id":1,"innercircle_id":2},{"id":16,"value":"Salad","main_id":1,"innercircle_id":2},{"id":17,"value":"Sandwitch","main_id":1,"innercircle_id":2},{"id":18,"value":"Rice","main_id":1,"innercircle_id":2}]}
